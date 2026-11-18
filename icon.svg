@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" role="img" aria-label="Texas Hold'em">
+  <defs>
+    <linearGradient id="felt" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0f5132"/>
+      <stop offset="1" stop-color="#08331f"/>
+    </linearGradient>
+  </defs>
+  <rect x="1" y="1" width="62" height="62" rx="14" fill="url(#felt)"/>
+  <ellipse cx="32" cy="34" rx="22" ry="13" fill="none" stroke="#1f7a4d" stroke-width="2" opacity="0.85"/>
+  <g transform="translate(31 32) rotate(-12)">
+    <rect x="-7" y="-11" width="14" height="19" rx="2.4" fill="#f7f7f5" stroke="#0b2318" stroke-width="1.2"/>
+    <path d="M0 -6.2c1.9 2.2 3.6 3.7 3.6 5.5a3.6 3.6 0 0 1-7.2 0c0-1.8 1.7-3.3 3.6-5.5z" fill="#b3122c"/>
+  </g>
+  <g transform="translate(39 27) rotate(14)">
+    <rect x="-6.5" y="-10" width="13" height="18" rx="2.2" fill="#efece4" stroke="#0b2318" stroke-width="1.1"/>
+    <circle cx="0" cy="-1.2" r="2.1" fill="#1b1b1e"/>
+    <circle cx="-2.4" cy="2.4" r="2.1" fill="#1b1b1e"/>
+    <circle cx="2.4" cy="2.4" r="2.1" fill="#1b1b1e"/>
+  </g>
+</svg>
